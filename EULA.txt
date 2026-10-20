@@ -88,6 +88,7 @@ These license terms are an agreement between you and Microsoft Corporation (or o
 **Cette limitation concerne:**
 
 *	**tout ce qui est relié au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des programmes tiers; et**
+Acepto
 
 *	**les réclamations au titre de violation de contrat ou de garantie, ou au titre de responsabilité stricte, de négligence ou d’une autre faute dans la limite autorisée par la loi en vigueur.**
 
